@@ -1,8 +1,6 @@
 # React Admin Dashboard
 **ReactJs** based admin dashboard example.
 
-[live demo page of the project](https://patwapro.github.io/react-admin-dashboard/)
-
 ## Prerequisites
 The things you need to install.
 ```
