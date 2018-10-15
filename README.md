@@ -1,21 +1,23 @@
-# Create React App example
+# React Admin Dashboard
+**ReactJs** based admin dashboard example.
 
-## How to use
+[live demo page of the project](https://patwapro.github.io/react-admin-dashboard/)
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
-
-```bash
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app
-cd create-react-app
+## Prerequisites
+The things you need to install.
 ```
-
-Install it and run:
-
-```bash
+NodeJs and Git(optional)
+```
+## Installation
+Just clone or download the todo-web-app
+### development
+run 
+```
+git clone https://github.com/patwapro/react-admin-dashboard.git
+cd react-admin-dashboard
 npm install
-npm run start
 ```
-
-## The idea behind the example
-
-[Create React App](https://github.com/facebookincubator/create-react-app) with no build configuration.
+then 
+```
+npm start
+```
